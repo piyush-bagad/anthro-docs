@@ -11,5 +11,5 @@ aux_links:
     - "//github.com/piyush-bagad/anthro-docs"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
