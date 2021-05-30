@@ -12,3 +12,4 @@ parent: Sample
 
 ---
 ### Sub-sample
+{:toc}
