@@ -8,5 +8,3 @@ permalink: docs/sample
 
 
 ### Sample folder
-
-{: .toc }
