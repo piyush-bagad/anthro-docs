@@ -5,3 +5,8 @@ nav_order: 2
 has_children: true
 permalink: docs/sample
 ---
+
+
+### Sample folder
+
+{: .no_toc }
