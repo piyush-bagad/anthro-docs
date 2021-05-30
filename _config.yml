@@ -1,1 +1,15 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Set a path/url to a logo that will be displayed instead of the title
+# https://www.pngitem.com/middle/iThxiJx_transparent-document-clipart-documentation-clipart-hd-png-download/
+logo: "/assets/images/logo.png"
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "Edit on GitHub":
+    - "//github.com/piyush-bagad/anthro-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
