@@ -35,5 +35,6 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
+# currently GA is not working (see https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 ga_tracking: UA-198121147-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
