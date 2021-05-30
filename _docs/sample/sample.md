@@ -9,4 +9,4 @@ permalink: docs/sample
 
 ### Sample folder
 
-{: .no_toc }
+{: .toc }
