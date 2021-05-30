@@ -38,3 +38,31 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # currently GA is not working (see https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 ga_tracking: UA-198121147-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "docs", its documents reside in the "_docs" directory
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    docs:
+      # Give the collection a name
+      name: Documentation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    tutorials:
+      name: Tutorials
+
