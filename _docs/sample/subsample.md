@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Layout
+title: Sub-sample
 parent: Sample
 ---
