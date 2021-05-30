@@ -31,3 +31,9 @@ gh_edit_repository: "https://github.com/piyush-bagad/anthro-docs" # the github U
 gh_edit_branch: "gh-pages" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: UA-198121147-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
